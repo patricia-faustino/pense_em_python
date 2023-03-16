@@ -1,0 +1,8 @@
+print(5 == 5)
+print(5 != 5)
+print(5 > 5)
+print(5 < 5)
+print(5 >= 5)
+print(5 <= 5)
+print(type(False))
+print(type(True))
